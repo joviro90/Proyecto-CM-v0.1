@@ -1,0 +1,1 @@
+SELECT * FROM cm_db.user;
